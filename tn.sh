@@ -1,5 +1,5 @@
 #!/bin/bash
 
-# New session in default tmux
+# New session in default tmux server
 
 stmux.sh dn

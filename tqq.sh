@@ -1,5 +1,5 @@
 #!/bin/bash
 
-# New session in new tmux
+# Query for tmux server and session to connect to.
 
 stmux.sh qq

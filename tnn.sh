@@ -1,5 +1,5 @@
 #!/bin/bash
 
-# New session in new tmux
+# Start new tmux server, and a new session.
 
 stmux.sh nn
